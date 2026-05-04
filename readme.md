@@ -204,7 +204,7 @@ Un mensaje de commit debe explicar **qué hace** el cambio, no *cómo* lo hace. 
 
 ---
 
-### Paso 4 — Segundo commit
+### Paso 4 — Segundo commit.
 
 Un commit debe ser **atómico**: contener un solo cambio lógico, ni más ni menos. Si hiciste dos cosas distintas, deberían ser dos commits distintos.
 
