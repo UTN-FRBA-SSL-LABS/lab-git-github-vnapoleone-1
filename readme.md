@@ -167,7 +167,7 @@ Working directory  →  git add  →  Staging area  →  git commit  →  Histor
 
 ¿Por qué existe el staging area? Porque a veces modificás varios archivos pero querés hacer commits separados por tema. El staging te permite decir "este cambio va en este commit, y ese otro va en el siguiente", sin tener que commitear todo junto ni perder ningún cambio.
 
-Mirá qué cambió:
+Mirá qué cambió:.
 
 ```bash
 git diff
