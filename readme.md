@@ -134,7 +134,7 @@ Deberías ver `* feature/mi-funcion`.
 
 ---
 
-### Paso 2 — Implementar `multiplicar`
+### Paso 2 — Implementar `multiplicar`.
 
 Abrí `operaciones.c`. Encontrá la función `multiplicar` y reemplazá el cuerpo:
 
