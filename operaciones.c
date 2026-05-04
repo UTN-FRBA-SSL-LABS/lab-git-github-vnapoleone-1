@@ -17,7 +17,7 @@ int restar(int a, int b) {
 
 int multiplicar(int a, int b) {
     (void)a; (void)b;
-    return a * b; /* TODO: implementar */
+    return a * b; 
 }
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
